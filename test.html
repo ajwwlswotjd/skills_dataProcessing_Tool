@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <pre>
+
+    </pre>
+    <script>
+
+        const log = console.log;
+
+        let xhr = new XMLHttpRequest();
+        xhr.onload = function(){
+            let arr = JSON.parse(this.responseText);
+            log(arr);
+            document.querySelector("pre").innerHTML = JSON.stringify(arr,null,'\t');
+        }
+        xhr.open("GET","accommodations.json","true");
+        xhr.send();
+
+    </script>
+</body>
+</html>
+
+<!-- // 0: 도로가 아닌 곳
+// 1: 도로
+// 2: 숙박업소
+// 3: 축제 개최지
+
+// 축제 5개, 숙박업소 100개,  450x300의 지도
+// 각 축제와 숙박업소는 festivals.json과 accommodations.json의 location옵션과 맞아 떨어져야된다.
+// 모든 숙박업소와 축제는 최소 1개의 도로와 맞닿아 있어야함
+// 축제 바로옆에는 숙박업소가 있을 수 없음 -->

@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		.container {
+			display: grid;
+			grid-template-columns: repeat(2, 1fr);
+			grid-gap: 20px;
+			padding: 30px;
+		}
+		.form-box {
+			height: 1200px;
+			padding: 40px;
+			border: 1px solid #dfdfdf;
+			display: flex;
+			flex-direction: column;
+		}
+
+		.form-box label {
+			margin-bottom: 5px;
+			font-weight: bold;
+			color: #333;
+		}
+
+		.form-box input {
+			height: 40px;
+			margin-bottom: 10px;
+			border: 1px solid #dfdfdf;
+			padding-left: 20px;
+		}
+
+		.form-box button {
+			margin-top: 10px;
+			height: 50px;
+			background-color: #fff;
+			border: 1px solid #dfdfdf;
+		}
+
+		.json-view {
+			height: 1200px;
+			padding: 40px;
+			border: 1px solid #dfdfdf;
+			overflow: scroll;
+		}
+
+		.asdf {
+			position: fixed;
+			top: 5px;
+			left: 5px;
+		}
+
+		.asdf:first-child {
+			left: 50px;
+		}
+	</style>
+</head>
+<body>
+	<button onclick="reset();" class="asdf">리셋</button>
+	<button onclick="down();" class="asdf">다운</button>
+	<div class="container">
+		<div class="form-box">
+			<label for="idx">idx</label>
+			<input id="idx" type="number">
+			<label for="name">name</label>
+			<input id="name" type="text">
+			<label for="photo">photo</label>
+			<input id="photo" type="text">
+			<label for="type">type</label>
+			<input id="type" type="text">
+			<label for="rating">rating</label>
+			<input id="rating" type="number">
+			<label for="single">single</label>
+			<input id="single" type="number" value='0'>
+			<label for="double">double</label>
+			<input id="double" type="number" value='0'>
+			<label for="tripple">tripple</label>
+			<input id="tripple" type="number" value='0'>
+			<label for="family">family</label>
+			<input id="family" type="number" value='0'>
+			<label for="connecting">connecting</label>
+			<input id="connecting" type="number" value='0'>
+			<label for="single_price">single_price</label>
+			<input id="single_price" type="number" value='0'>
+			<label for="double_price">double_price</label>
+			<input id="double_price" type="number" value='0'>
+			<label for="tripple_price">tripple_price</label>
+			<input id="tripple_price" type="number" value='0'>
+			<label for="family_price">family_price</label>
+			<input id="family_price" type="number" value='0'>
+			<label for="connecting_price">connecting_price</label>
+			<input id="connecting_price" type="number" value='0'>
+			<button id="insert">확인</button>
+		</div>
+		<div class="json-view">
+			<pre></pre>
+		</div>
+	</div>
+
+	<script>
+		const log = console.log;
+		let jsonData = localStorage.jsonData == undefined ? [] : JSON.parse(localStorage.jsonData);
+
+		update();
+
+		let f = document.querySelectorAll(".form-box input");
+		document.querySelector("button#insert").addEventListener("click", (e) => {
+			let inputs = Array.from(f).map(x => x.value);
+
+			jsonData.push(setJSON(inputs));
+			localStorage.jsonData = JSON.stringify(jsonData);
+			update();
+			document.querySelector("#type").value = "pension";
+			document.querySelector("#rating").value = rand(1,5);
+			document.querySelector("#single").value = rand(6,17);
+			document.querySelector("#double").value = rand(8,25);
+			document.querySelector("#tripple").value = rand(3,8);
+			document.querySelector("#family").value = rand(1,5);
+			document.querySelector("#single_price").value = rand(30,60)*1000;
+			document.querySelector("#double_price").value = rand(70,100)*1000;
+			document.querySelector("#tripple_price").value = rand(110,150)*1000;
+			document.querySelector("#family_price").value = rand(160,250)*1000;
+			let ran = rand(0,2) == 0 ? false : false;
+			if(ran){ // 있는 경우
+				document.querySelector("#connecting").value = rand(1,5);
+				document.querySelector("#connecting_price").value = rand(45,90)*10000;
+			} else { // 없는 경우
+				document.querySelector("#connecting").value = 0;
+				document.querySelector("#connecting_price").value = 0;
+			}
+		});
+
+	function rand(start,end){
+		return Math.floor(Math.random()*(end-start+1))+start;
+	}
+
+	function setJSON(datas) {
+		return {
+			"idx": datas[0]*1,
+			"name": datas[1],
+			"photo": datas[2],
+			"type": datas[3],
+			"location": [0, 0],
+			"rating": datas[4]*1,
+			"rooms": {
+				"single": datas[5]*1,
+				"double": datas[6]*1,
+				"tripple": datas[7]*1,
+				"family": datas[8]*1,
+				"connecting": datas[9]*1
+			},
+			"price": {
+				"single": datas[10]*1,
+				"double": datas[11]*1,
+				"tripple": datas[12]*1,
+				"family": datas[13]*1,
+				"connecting": datas[14]*1
+			}
+		}
+	}
+
+	function reset() {
+		localStorage.jsonData = '[]';
+		jsonData = JSON.parse(localStorage.jsonData);
+		update();	
+	}
+
+	function update() {
+		let idx = jsonData.length > 0 ? Math.max(...jsonData.map(x => x.idx)) + 1 : 76;
+		document.querySelector(".form-box input#idx").value = idx;
+		document.querySelector(".json-view pre").innerText = JSON.stringify(jsonData, null, '\t');
+	}
+
+	function down() {
+		let downData = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(jsonData, null, '\t'));
+		let downElem = document.createElement("a");
+		downElem.setAttribute("href", downData);
+		downElem.setAttribute("download", "accommodations.json");
+		downElem.click();
+	}
+	</script>
+</body>
+</html>

@@ -1,0 +1,2202 @@
+[
+	{
+		"idx": 1,
+		"name": "전주 NO25", 
+		"photo": "no_25.jpg", 
+		"type": "hotel", 
+		"location": [1, 4], 
+		"rating": 4, 
+		"rooms": { 
+			"single": 10,
+			"double": 5,
+			"tripple": 0,
+			"family": 0,
+			"connecting": 0
+		},
+		"price": { 
+			"single": 20000,
+			"double": 35000,
+			"tripple": 0,
+			"family": 0,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 2,
+		"name": "전주 MAX호텔",
+		"photo": "max.jpg",
+		"type": "hotel",
+		"location": [2, 0],
+		"rating": 5,
+		"rooms": {
+			"single": 20,
+			"double": 20,
+			"tripple": 10,
+			"family": 5,
+			"connecting": 5
+		},
+		"price": {
+			"single": 85000,
+			"double": 110000,
+			"tripple": 210000,
+			"family": 320000,
+			"connecting": 800000
+		}
+	},
+	{
+		"idx": 3,
+		"name": "라마다 전주",
+		"photo": "ramada_hotel.jpg",
+		"type": "hotel",
+		"location": [2, 0],
+		"rating": 5,
+		"rooms": {
+			"single": 15,
+			"double": 10,
+			"tripple": 5,
+			"family": 3,
+			"connecting": 1
+		},
+		"price": {
+			"single": 100000,
+			"double": 170000,
+			"tripple": 250000,
+			"family": 400000,
+			"connecting": 735000
+		}
+	},
+	{
+		"idx": 4,
+		"name": "라한호텔 전주",
+		"photo": "rahan_hotel.jpg",
+		"type": "hotel",
+		"location": [2, 0],
+		"rating": 3,
+		"rooms": {
+			"single": 7,
+			"double": 3,
+			"tripple": 2,
+			"family": 1,
+			"connecting": 0
+		},
+		"price": {
+			"single": 90000,
+			"double": 160000,
+			"tripple": 250000,
+			"family": 370000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 5,
+		"name": "전주 카마호텔",
+		"photo": "kama.jpg",
+		"type": "hotel",
+		"location": [2, 0],
+		"rating": 4,
+		"rooms": {
+			"single": 6,
+			"double": 3,
+			"tripple": 2,
+			"family": 1,
+			"connecting": 0
+		},
+		"price": {
+			"single": 70000,
+			"double": 100000,
+			"tripple": 170000,
+			"family": 260000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 6,
+		"name": "전주 더씨티 호텔",
+		"photo": "thecity.jpg",
+		"type": "hotel",
+		"location": [2, 0],
+		"rating": 4,
+		"rooms": {
+			"single": 10,
+			"double": 5,
+			"tripple": 3,
+			"family": 3,
+			"connecting": 1
+		},
+		"price": {
+			"single": 120000,
+			"double": 180000,
+			"tripple": 250000,
+			"family": 360000,
+			"connecting": 760000
+		}
+	},
+	{
+		"idx": 7,
+		"name": "전주 비지트호텔",
+		"photo": "jj_visit.jpg",
+		"type": "hotel",
+		"location": [2, 0],
+		"rating": 5,
+		"rooms": {
+			"single": 20,
+			"double": 10,
+			"tripple": 5,
+			"family": 2,
+			"connecting": 1
+		},
+		"price": {
+			"single": 150000,
+			"double": 300000,
+			"tripple": 400000,
+			"family": 550000,
+			"connecting": 800000
+		}
+	},
+	{
+		"idx": 8,
+		"name": "전주 이화호텔",
+		"photo": "jj_yihua.jpg",
+		"type": "hotel",
+		"location": [2, 0],
+		"rating": 2,
+		"rooms": {
+			"single": 5,
+			"double": 10,
+			"tripple": 10,
+			"family": 3,
+			"connecting": 0
+		},
+		"price": {
+			"single": 59900,
+			"double": 119000,
+			"tripple": 187800,
+			"family": 217000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 9,
+		"name": "전주 황실관광호텔",
+		"photo": "jj_hwang.jpg",
+		"type": "hotel",
+		"location": [2, 0],
+		"rating": 2,
+		"rooms": {
+			"single": 2,
+			"double": 5,
+			"tripple": 5,
+			"family": 1,
+			"connecting": 0
+		},
+		"price": {
+			"single": 80000,
+			"double": 120000,
+			"tripple": 220000,
+			"family": 450000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 10,
+		"name": "전주 그랜드힐스턴 호텔",
+		"photo": "jj_grand.jpg",
+		"type": "hotel",
+		"location": [2, 0],
+		"rating": 3,
+		"rooms": {
+			"single": 5,
+			"double": 3,
+			"tripple": 3,
+			"family": 1,
+			"connecting": 0
+		},
+		"price": {
+			"single": 91990,
+			"double": 127900,
+			"tripple": 165000,
+			"family": 230000,
+			"connecting": 800000
+		}
+	},
+	{
+		"idx": 11,
+		"name": "엔브릿지 호텔",
+		"photo": "n_bridge.jpg",
+		"type": "hotel",
+		"location": [2, 0],
+		"rating": 4,
+		"rooms": {
+			"single": 16,
+			"double": 8,
+			"tripple": 6,
+			"family": 5,
+			"connecting": 2
+		},
+		"price": {
+			"single": 179000,
+			"double": 199900,
+			"tripple": 229000,
+			"family": 299000,
+			"connecting": 379000
+		}
+	},
+	{
+		"idx": 12,
+		"name": "전주 한옥호텔 왕의지밀",
+		"photo": "king.jpg",
+		"type": "hotel",
+		"location": [2, 0],
+		"rating": 2,
+		"rooms": {
+			"single": 5,
+			"double": 5,
+			"tripple": 2,
+			"family": 1,
+			"connecting": 0
+		},
+		"price": {
+			"single": 150000,
+			"double": 170000,
+			"tripple": 210000,
+			"family": 290000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 13,
+		"name": "전주 마리호텔",
+		"photo": "jj_mari.jpg",
+		"type": "hotel",
+		"location": [2, 0],
+		"rating": 5,
+		"rooms": {
+			"single": 20,
+			"double": 50,
+			"tripple": 15,
+			"family": 5,
+			"connecting": 3
+		},
+		"price": {
+			"single": 67000,
+			"double": 87000,
+			"tripple": 160000,
+			"family": 255000,
+			"connecting": 868000
+		}
+	},
+	{
+		"idx": 14,
+		"name": "전주한옥호텔 태조궁",
+		"photo": "taejo.jpg",
+		"type": "hotel",
+		"location": [2, 0],
+		"rating": 4,
+		"rooms": {
+			"single": 7,
+			"double": 4,
+			"tripple": 3,
+			"family": 2,
+			"connecting": 0
+		},
+		"price": {
+			"single": 60000,
+			"double": 95000,
+			"tripple": 155000,
+			"family": 220000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 15,
+		"name": "솔 호텔",
+		"photo": "sol.jpg",
+		"type": "hotel",
+		"location": [2, 0],
+		"rating": 1,
+		"rooms": {
+			"single": 4,
+			"double": 15,
+			"tripple": 1,
+			"family": 0,
+			"connecting": 0
+		},
+		"price": {
+			"single": 65000,
+			"double": 99000,
+			"tripple": 122000,
+			"family": 0,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 16,
+		"name": "베니키아 전주한성호텔",
+		"photo": "venikia.jpg",
+		"type": "hotel",
+		"location": [2, 0],
+		"rating": 5,
+		"rooms": {
+			"single": 15,
+			"double": 15,
+			"tripple": 8,
+			"family": 5,
+			"connecting": 1
+		},
+		"price": {
+			"single": 60000,
+			"double": 75000,
+			"tripple": 130000,
+			"family": 199000,
+			"connecting": 370000
+		}
+	},
+	{
+		"idx": 17,
+		"name": "전주 재즈어라운드호텔",
+		"photo": "jazz.jpg",
+		"type": "hotel",
+		"location": [2, 0],
+		"rating": 4,
+		"rooms": {
+			"single": 6,
+			"double": 9,
+			"tripple": 5,
+			"family": 4,
+			"connecting": 0
+		},
+		"price": {
+			"single": 55000,
+			"double": 84900,
+			"tripple": 117000,
+			"family": 169000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 18,
+		"name": "호텔 오페라21",
+		"photo": "opera.jpg",
+		"type": "hotel",
+		"location": [2, 0],
+		"rating": 5,
+		"rooms": {
+			"single": 18,
+			"double": 30,
+			"tripple": 13,
+			"family": 8,
+			"connecting": 3
+		},
+		"price": {
+			"single": 50000,
+			"double": 67000,
+			"tripple": 135000,
+			"family": 187000,
+			"connecting": 380000
+		}
+	},
+	{
+		"idx": 19,
+		"name": "전주 영화호텔",
+		"photo": "movie.jpg",
+		"type": "hotel",
+		"location": [2, 0],
+		"rating": 1,
+		"rooms": {
+			"single": 2,
+			"double": 25,
+			"tripple": 1,
+			"family": 1,
+			"connecting": 0
+		},
+		"price": {
+			"single": 55000,
+			"double": 60000,
+			"tripple": 178000,
+			"family": 299000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 20,
+		"name": "에코스테이 호텔",
+		"photo": "echo_stay.jpg",
+		"type": "hotel",
+		"location": [2, 0],
+		"rating": 3,
+		"rooms": {
+			"single": 4,
+			"double": 9,
+			"tripple": 5,
+			"family": 2,
+			"connecting": 0
+		},
+		"price": {
+			"single": 64000,
+			"double": 75000,
+			"tripple": 126000,
+			"family": 175000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 21,
+		"name": "한옥호텔 궁",
+		"photo": "hanok_gung.jpg",
+		"type": "hotel",
+		"location": [2, 0],
+		"rating": 5,
+		"rooms": {
+			"single": 3,
+			"double": 3,
+			"tripple": 5,
+			"family": 10,
+			"connecting": 1
+		},
+		"price": {
+			"single": 88000,
+			"double": 120000,
+			"tripple": 220000,
+			"family": 315000,
+			"connecting": 780000
+		}
+	},
+	{
+		"idx": 22,
+		"name": "전주 블루원호텔",
+		"photo": "hanok_gung.jpg",
+		"type": "hotel",
+		"location": [2, 0],
+		"rating": 2,
+		"rooms": {
+			"single": 4,
+			"double": 10,
+			"tripple": 7,
+			"family": 2,
+			"connecting": 0
+		},
+		"price": {
+			"single": 55000,
+			"double": 89000,
+			"tripple": 119000,
+			"family": 149000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 23,
+		"name": "나비잠한옥호텔",
+		"photo": "butterfly_sleep.jpg",
+		"type": "hotel",
+		"location": [0, 0],
+		"rating": 5,
+		"rooms": {
+			"single": 15,
+			"double": 15,
+			"tripple": 8,
+			"family": 5,
+			"connecting": 0
+		},
+		"price": {
+			"single": 66000,
+			"double": 87000,
+			"tripple": 120000,
+			"family": 222000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 24,
+		"name": "전주 화이트관광호텔",
+		"photo": "jj_white.jpg",
+		"type": "hotel",
+		"location": [0, 0],
+		"rating": 4,
+		"rooms": {
+			"single": 40,
+			"double": 60,
+			"tripple": 30,
+			"family": 10,
+			"connecting": 5
+		},
+		"price": {
+			"single": 170000,
+			"double": 250000,
+			"tripple": 360000,
+			"family": 440000,
+			"connecting": 700000
+		}
+	},
+	{
+		"idx": 25,
+		"name": "전주 JS 호텔",
+		"photo": "jj_js.jpg",
+		"type": "hotel",
+		"location": [0, 0],
+		"rating": 2,
+		"rooms": {
+			"single": 17,
+			"double": 24,
+			"tripple": 8,
+			"family": 3,
+			"connecting": 0
+		},
+		"price": {
+			"single": 66000,
+			"double": 98000,
+			"tripple": 130000,
+			"family": 199000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 26,
+		"name": "전주 노이호텔",
+		"photo": "jj_noy.jpg",
+		"type": "hotel",
+		"location": [0, 0],
+		"rating": 1,
+		"rooms": {
+			"single": 5,
+			"double": 5,
+			"tripple": 3,
+			"family": 0,
+			"connecting": 0
+		},
+		"price": {
+			"single": 88000,
+			"double": 11000,
+			"tripple": 160000,
+			"family": 0,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 27,
+		"name": "전주 호텔 늘",
+		"photo": "neul.jpg",
+		"type": "hotel",
+		"location": [0, 0],
+		"rating": 5,
+		"rooms": {
+			"single": 8,
+			"double": 13,
+			"tripple": 3,
+			"family": 1,
+			"connecting": 0
+		},
+		"price": {
+			"single": 62000,
+			"double": 97000,
+			"tripple": 155000,
+			"family": 210000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 28,
+		"name": "늘품호텔",
+		"photo": "nolpum.jpg",
+		"type": "hotel",
+		"location": [0, 0],
+		"rating": 4,
+		"rooms": {
+			"single": 6,
+			"double": 5,
+			"tripple": 3,
+			"family": 0,
+			"connecting": 0
+		},
+		"price": {
+			"single": 57000,
+			"double": 68000,
+			"tripple": 110000,
+			"family": 0,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 29,
+		"name": "칼튼힐호텔",
+		"photo": "kalten_hill.jpg",
+		"type": "hotel",
+		"location": [0, 0],
+		"rating": 5,
+		"rooms": {
+			"single": 50,
+			"double": 70,
+			"tripple": 20,
+			"family": 15,
+			"connecting": 5
+		},
+		"price": {
+			"single": 88000,
+			"double": 125000,
+			"tripple": 199000,
+			"family": 250000,
+			"connecting": 470000
+		}
+	},
+	{
+		"idx": 30,
+		"name": "전주 투헤븐 호텔",
+		"photo": "jj_toheaven.jpg",
+		"type": "hotel",
+		"location": [0, 0],
+		"rating": 3,
+		"rooms": {
+			"single": 15,
+			"double": 10,
+			"tripple": 8,
+			"family": 0,
+			"connecting": 0
+		},
+		"price": {
+			"single": 45000,
+			"double": 66000,
+			"tripple": 110000,
+			"family": 0,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 31,
+		"name": "더클래식호텔",
+		"photo": "the_classic.jpg",
+		"type": "hotel",
+		"location": [0, 0],
+		"rating": 5,
+		"rooms": {
+			"single": 60,
+			"double": 100,
+			"tripple": 40,
+			"family": 20,
+			"connecting": 10
+		},
+		"price": {
+			"single": 182000,
+			"double": 320000,
+			"tripple": 600000,
+			"family": 870000,
+			"connecting": 999000
+		}
+	},
+	{
+		"idx": 32,
+		"name": "홀리데이 호텔",
+		"photo": "holiday.jpg",
+		"type": "hotel",
+		"location": [0, 0],
+		"rating": 3,
+		"rooms": {
+			"single": 100,
+			"double": 100,
+			"tripple": 50,
+			"family": 30,
+			"connecting": 15
+		},
+		"price": {
+			"single": 212000,
+			"double": 350000,
+			"tripple": 660000,
+			"family": 900000,
+			"connecting": 1100000
+		}
+	},
+	{
+		"idx": 33,
+		"name": "전주 와인호텔",
+		"photo": "jj_wine.jpg",
+		"type": "hotel",
+		"location": [0, 0],
+		"rating": 5,
+		"rooms": {
+			"single": 10,
+			"double": 10,
+			"tripple": 5,
+			"family": 0,
+			"connecting": 0
+		},
+		"price": {
+			"single": 45000,
+			"double": 66000,
+			"tripple": 83000,
+			"family": 0,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 34,
+		"name": "발렌타인 호텔",
+		"photo": "ballantine.jpg",
+		"type": "hotel",
+		"location": [0, 0],
+		"rating": 3,
+		"rooms": {
+			"single": 6,
+			"double": 8,
+			"tripple": 4,
+			"family": 1,
+			"connecting": 0
+		},
+		"price": {
+			"single": 49000,
+			"double": 58000,
+			"tripple": 67000,
+			"family": 99000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 35,
+		"name": "호텔B",
+		"photo": "hotel_b.jpg",
+		"type": "hotel",
+		"location": [0, 0],
+		"rating": 5,
+		"rooms": {
+			"single": 30,
+			"double": 30,
+			"tripple": 15,
+			"family": 5,
+			"connecting": 1
+		},
+		"price": {
+			"single": 75000,
+			"double": 99000,
+			"tripple": 160000,
+			"family": 220000,
+			"connecting": 450000
+		}
+	},
+	{
+		"idx": 36,
+		"name": "호텔 53",
+		"photo": "hote_53.jpg",
+		"type": "hotel",
+		"location": [0, 0],
+		"rating": 3,
+		"rooms": {
+			"single": 10,
+			"double": 22,
+			"tripple": 9,
+			"family": 4,
+			"connecting": 0
+		},
+		"price": {
+			"single": 66000,
+			"double": 98000,
+			"tripple": 110000,
+			"family": 160000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 37,
+		"name": "두바이 호텔",
+		"photo": "dubai.jpg",
+		"type": "hotel",
+		"location": [0, 0],
+		"rating": 5,
+		"rooms": {
+			"single": 100,
+			"double": 10,
+			"tripple": 0,
+			"family": 20,
+			"connecting": 20
+		},
+		"price": {
+			"single": 80000,
+			"double": 99000,
+			"tripple": 0,
+			"family": 210000,
+			"connecting": 490000
+		}
+	},
+	{
+		"idx": 38,
+		"name": "호텔 프랑스",
+		"photo": "france.jpg",
+		"type": "hotel",
+		"location": [0, 0],
+		"rating": 3,
+		"rooms": {
+			"single": 17,
+			"double": 9,
+			"tripple": 4,
+			"family": 1,
+			"connecting": 0
+		},
+		"price": {
+			"single": 68000,
+			"double": 89000,
+			"tripple": 119000,
+			"family": 166000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 39,
+		"name": "벤틀리호텔",
+		"photo": "bently.jpg",
+		"type": "hotel",
+		"location": [0, 0],
+		"rating": 5,
+		"rooms": {
+			"single": 70,
+			"double": 70,
+			"tripple": 30,
+			"family": 20,
+			"connecting": 5
+		},
+		"price": {
+			"single": 78000,
+			"double": 119000,
+			"tripple": 189000,
+			"family": 239000,
+			"connecting": 330000
+		}
+	},
+	{
+		"idx": 40,
+		"name": "메이킹 호텔",
+		"photo": "making.jpg",
+		"type": "hotel",
+		"location": [0, 0],
+		"rating": 4,
+		"rooms": {
+			"single": 60,
+			"double": 45,
+			"tripple": 20,
+			"family": 10,
+			"connecting": 1
+		},
+		"price": {
+			"single": 69000,
+			"double": 109000,
+			"tripple": 159000,
+			"family": 219000,
+			"connecting": 290000
+		}
+	},
+	{
+		"idx": 41,
+		"name": "벤처 비즈니스 호텔",
+		"photo": "benture.jpg",
+		"type": "hotel",
+		"location": [0, 0],
+		"rating": 1,
+		"rooms": {
+			"single": 5,
+			"double": 28,
+			"tripple": 3,
+			"family": 5,
+			"connecting": 0
+		},
+		"price": {
+			"single": 70000,
+			"double": 89000,
+			"tripple": 126000,
+			"family": 341000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 42,
+		"name": "광주 노블레스호텔",
+		"photo": "nobless.jpg",
+		"type": "hotel",
+		"location": [0, 0],
+		"rating": 5,
+		"rooms": {
+			"single": 19,
+			"double": 26,
+			"tripple": 6,
+			"family": 3,
+			"connecting": 0
+		},
+		"price": {
+			"single": 56000,
+			"double": 91000,
+			"tripple": 142000,
+			"family": 259000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 43,
+		"name": "호텔 더메이",
+		"photo": "themay.jpg",
+		"type": "hotel",
+		"location": [0, 0],
+		"rating": 1,
+		"rooms": {
+			"single": 5,
+			"double": 12,
+			"tripple": 8,
+			"family": 5,
+			"connecting": 3
+		},
+		"price": {
+			"single": 69000,
+			"double": 98000,
+			"tripple": 151000,
+			"family": 247000,
+			"connecting": 490000
+		}
+	},
+	{
+		"idx": 44,
+		"name": "에프엔티 호텔",
+		"photo": "fnt.jpg",
+		"type": "hotel",
+		"location": [0, 0],
+		"rating": 1,
+		"rooms": {
+			"single": 20,
+			"double": 10,
+			"tripple": 10,
+			"family": 4,
+			"connecting": 0
+		},
+		"price": {
+			"single": 54000,
+			"double": 81000,
+			"tripple": 130000,
+			"family": 218000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 45,
+		"name": "W 라운지 호텔",
+		"photo": "w_lounge.jpg",
+		"type": "hotel",
+		"location": [0, 0],
+		"rating": 3,
+		"rooms": {
+			"single": 5,
+			"double": 19,
+			"tripple": 7,
+			"family": 2,
+			"connecting": 0
+		},
+		"price": {
+			"single": 66000,
+			"double": 102000,
+			"tripple": 141000,
+			"family": 308000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 46,
+		"name": "피렌체 관광호텔",
+		"photo": "piren.jpg",
+		"type": "hotel",
+		"location": [0, 0],
+		"rating": 1,
+		"rooms": {
+			"single": 6,
+			"double": 19,
+			"tripple": 6,
+			"family": 3,
+			"connecting": 2
+		},
+		"price": {
+			"single": 44000,
+			"double": 84000,
+			"tripple": 148000,
+			"family": 207000,
+			"connecting": 570000
+		}
+	},
+	{
+		"idx": 47,
+		"name": "어반라이프호텔",
+		"photo": "urban_life.jpg",
+		"type": "hotel",
+		"location": [0, 0],
+		"rating": 3,
+		"rooms": {
+			"single": 15,
+			"double": 18,
+			"tripple": 9,
+			"family": 2,
+			"connecting": 0
+		},
+		"price": {
+			"single": 54000,
+			"double": 94000,
+			"tripple": 122000,
+			"family": 301000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 48,
+		"name": "ACC 디자인 호텔",
+		"photo": "acc_design.jpg",
+		"type": "hotel",
+		"location": [0, 0],
+		"rating": 4,
+		"rooms": {
+			"single": 9,
+			"double": 10,
+			"tripple": 4,
+			"family": 2,
+			"connecting": 2
+		},
+		"price": {
+			"single": 33000,
+			"double": 103000,
+			"tripple": 118000,
+			"family": 259000,
+			"connecting": 670000
+		}
+	},
+	{
+		"idx": 49,
+		"name": "비즈니스호텔 듀",
+		"photo": "business_due.jpg",
+		"type": "hotel",
+		"location": [0, 0],
+		"rating": 4,
+		"rooms": {
+			"single": 19,
+			"double": 14,
+			"tripple": 5,
+			"family": 1,
+			"connecting": 3
+		},
+		"price": {
+			"single": 30000,
+			"double": 83000,
+			"tripple": 137000,
+			"family": 319000,
+			"connecting": 500000
+		}
+	},
+	{
+		"idx": 50,
+		"name": "더존호텔",
+		"photo": "the_zone.jpg",
+		"type": "hotel",
+		"location": [0, 0],
+		"rating": 2,
+		"rooms": {
+			"single": 11,
+			"double": 21,
+			"tripple": 10,
+			"family": 3,
+			"connecting": 4
+		},
+		"price": {
+			"single": 35000,
+			"double": 72000,
+			"tripple": 157000,
+			"family": 277000,
+			"connecting": 800000
+		}
+	},
+	{
+		"idx": 51,
+		"name": "전주 스마일",
+		"photo": "jj_smile.jpg",
+		"type": "motel",
+		"location": [0, 0],
+		"rating": 1,
+		"rooms": {
+			"single": 13,
+			"double": 9,
+			"tripple": 2,
+			"family": 2,
+			"connecting": 0
+		},
+		"price": {
+			"single": 27000,
+			"double": 78000,
+			"tripple": 122000,
+			"family": 218000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 52,
+		"name": "전주 쏘울",
+		"photo": "jj_soul.jpg",
+		"type": "motel",
+		"location": [0, 0],
+		"rating": 2,
+		"rooms": {
+			"single": 15,
+			"double": 19,
+			"tripple": 2,
+			"family": 3,
+			"connecting": 0
+		},
+		"price": {
+			"single": 49000,
+			"double": 70000,
+			"tripple": 125000,
+			"family": 222000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 53,
+		"name": "전주 CUBE505",
+		"photo": "jj_cube.jpg",
+		"type": "motel",
+		"location": [0, 0],
+		"rating": 1,
+		"rooms": {
+			"single": 13,
+			"double": 19,
+			"tripple": 2,
+			"family": 2,
+			"connecting": 0
+		},
+		"price": {
+			"single": 49000,
+			"double": 61000,
+			"tripple": 111000,
+			"family": 173000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 54,
+		"name": "덕진 허브",
+		"photo": "hub.jpg",
+		"type": "motel",
+		"location": [0, 0],
+		"rating": 1,
+		"rooms": {
+			"single": 4,
+			"double": 14,
+			"tripple": 4,
+			"family": 1,
+			"connecting": 0
+		},
+		"price": {
+			"single": 25000,
+			"double": 79000,
+			"tripple": 131000,
+			"family": 217000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 55,
+		"name": "전주 MOMENT708",
+		"photo": "jj_moment.jpg",
+		"type": "motel",
+		"location": [0, 0],
+		"rating": 1,
+		"rooms": {
+			"single": 11,
+			"double": 6,
+			"tripple": 2,
+			"family": 2,
+			"connecting": 0
+		},
+		"price": {
+			"single": 29000,
+			"double": 75000,
+			"tripple": 122000,
+			"family": 181000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 56,
+		"name": "전주 비스트",
+		"photo": "jj_beast.jpg",
+		"type": "motel",
+		"location": [0, 0],
+		"rating": 3,
+		"rooms": {
+			"single": 7,
+			"double": 13,
+			"tripple": 4,
+			"family": 3,
+			"connecting": 0
+		},
+		"price": {
+			"single": 38000,
+			"double": 74000,
+			"tripple": 132000,
+			"family": 150000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 57,
+		"name": "전주 칸",
+		"photo": "jj_khan.jpg",
+		"type": "motel",
+		"location": [0, 0],
+		"rating": 4,
+		"rooms": {
+			"single": 10,
+			"double": 8,
+			"tripple": 4,
+			"family": 3,
+			"connecting": 0
+		},
+		"price": {
+			"single": 50000,
+			"double": 62000,
+			"tripple": 109000,
+			"family": 188000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 58,
+		"name": "전주 하루",
+		"photo": "jj_haru.jpg",
+		"type": "motel",
+		"location": [0, 0],
+		"rating": 1,
+		"rooms": {
+			"single": 7,
+			"double": 10,
+			"tripple": 3,
+			"family": 1,
+			"connecting": 0
+		},
+		"price": {
+			"single": 47000,
+			"double": 64000,
+			"tripple": 101000,
+			"family": 173000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 59,
+		"name": "전주 프라하",
+		"photo": "jj_praha.jpg",
+		"type": "motel",
+		"location": [0, 0],
+		"rating": 5,
+		"rooms": {
+			"single": 5,
+			"double": 14,
+			"tripple": 4,
+			"family": 2,
+			"connecting": 0
+		},
+		"price": {
+			"single": 36000,
+			"double": 78000,
+			"tripple": 112000,
+			"family": 180000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 60,
+		"name": "전주 후",
+		"photo": "jj_who.jpg",
+		"type": "motel",
+		"location": [0, 0],
+		"rating": 1,
+		"rooms": {
+			"single": 7,
+			"double": 13,
+			"tripple": 5,
+			"family": 3,
+			"connecting": 0
+		},
+		"price": {
+			"single": 33000,
+			"double": 70000,
+			"tripple": 110000,
+			"family": 190000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 61,
+		"name": "전주 XO",
+		"photo": "jj_xo.jpg",
+		"type": "motel",
+		"location": [0, 0],
+		"rating": 2,
+		"rooms": {
+			"single": 13,
+			"double": 13,
+			"tripple": 4,
+			"family": 1,
+			"connecting": 0
+		},
+		"price": {
+			"single": 38000,
+			"double": 65000,
+			"tripple": 122000,
+			"family": 161000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 62,
+		"name": "전주 소풍",
+		"photo": "jj_picnic.jpg",
+		"type": "motel",
+		"location": [0, 0],
+		"rating": 3,
+		"rooms": {
+			"single": 4,
+			"double": 17,
+			"tripple": 2,
+			"family": 1,
+			"connecting": 0
+		},
+		"price": {
+			"single": 36000,
+			"double": 72000,
+			"tripple": 105000,
+			"family": 172000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 63,
+		"name": "전주 허니",
+		"photo": "jj_honey.jpg",
+		"type": "motel",
+		"location": [0, 0],
+		"rating": 5,
+		"rooms": {
+			"single": 14,
+			"double": 10,
+			"tripple": 2,
+			"family": 3,
+			"connecting": 0
+		},
+		"price": {
+			"single": 37000,
+			"double": 71000,
+			"tripple": 108000,
+			"family": 198000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 64,
+		"name": "전주 박스",
+		"photo": "jj_box.jpg",
+		"type": "motel",
+		"location": [0, 0],
+		"rating": 4,
+		"rooms": {
+			"single": 15,
+			"double": 19,
+			"tripple": 3,
+			"family": 2,
+			"connecting": 0
+		},
+		"price": {
+			"single": 47000,
+			"double": 65000,
+			"tripple": 126000,
+			"family": 173000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 65,
+		"name": "전주 위너",
+		"photo": "jj_winner.jpg",
+		"type": "motel",
+		"location": [0, 0],
+		"rating": 3,
+		"rooms": {
+			"single": 15,
+			"double": 22,
+			"tripple": 2,
+			"family": 3,
+			"connecting": 0
+		},
+		"price": {
+			"single": 27000,
+			"double": 78000,
+			"tripple": 130000,
+			"family": 157000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 66,
+		"name": "전주 MIX",
+		"photo": "jj_mix.jpg",
+		"type": "motel",
+		"location": [0, 0],
+		"rating": 1,
+		"rooms": {
+			"single": 5,
+			"double": 11,
+			"tripple": 2,
+			"family": 1,
+			"connecting": 0
+		},
+		"price": {
+			"single": 40000,
+			"double": 78000,
+			"tripple": 103000,
+			"family": 205000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 67,
+		"name": "전주 노이 NEUE",
+		"photo": "jj_neue.jpg",
+		"type": "motel",
+		"location": [0, 0],
+		"rating": 4,
+		"rooms": {
+			"single": 14,
+			"double": 9,
+			"tripple": 4,
+			"family": 2,
+			"connecting": 0
+		},
+		"price": {
+			"single": 54000,
+			"double": 83000,
+			"tripple": 134000,
+			"family": 213000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 68,
+		"name": "전주 워너비",
+		"photo": "jj_wannabe.jpg",
+		"type": "motel",
+		"location": [0, 0],
+		"rating": 3,
+		"rooms": {
+			"single": 8,
+			"double": 21,
+			"tripple": 3,
+			"family": 2,
+			"connecting": 0
+		},
+		"price": {
+			"single": 55000,
+			"double": 87000,
+			"tripple": 128000,
+			"family": 151000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 69,
+		"name": "전주 스카이쇼원",
+		"photo": "jj_skyShowOne.jpg",
+		"type": "motel",
+		"location": [0, 0],
+		"rating": 3,
+		"rooms": {
+			"single": 5,
+			"double": 6,
+			"tripple": 3,
+			"family": 3,
+			"connecting": 0
+		},
+		"price": {
+			"single": 55000,
+			"double": 67000,
+			"tripple": 98000,
+			"family": 217000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 70,
+		"name": "전주 바라한",
+		"photo": "jj_barahan.jpg",
+		"type": "motel",
+		"location": [0, 0],
+		"rating": 3,
+		"rooms": {
+			"single": 12,
+			"double": 8,
+			"tripple": 2,
+			"family": 1,
+			"connecting": 0
+		},
+		"price": {
+			"single": 48000,
+			"double": 75000,
+			"tripple": 120000,
+			"family": 222000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 71,
+		"name": "전주 황금",
+		"photo": "jj_gold.jpg",
+		"type": "motel",
+		"location": [0, 0],
+		"rating": 3,
+		"rooms": {
+			"single": 6,
+			"double": 15,
+			"tripple": 2,
+			"family": 2,
+			"connecting": 0
+		},
+		"price": {
+			"single": 37000,
+			"double": 63000,
+			"tripple": 117000,
+			"family": 159000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 72,
+		"name": "전주 윈져",
+		"photo": "jj_windger.jpg",
+		"type": "motel",
+		"location": [0, 0],
+		"rating": 1,
+		"rooms": {
+			"single": 14,
+			"double": 16,
+			"tripple": 5,
+			"family": 2,
+			"connecting": 0
+		},
+		"price": {
+			"single": 36000,
+			"double": 72000,
+			"tripple": 110000,
+			"family": 190000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 73,
+		"name": "전주 린하우스",
+		"photo": "jj_linhouse.jpg",
+		"type": "motel",
+		"location": [0, 0],
+		"rating": 1,
+		"rooms": {
+			"single": 8,
+			"double": 18,
+			"tripple": 3,
+			"family": 2,
+			"connecting": 0
+		},
+		"price": {
+			"single": 52000,
+			"double": 87000,
+			"tripple": 113000,
+			"family": 191000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 74,
+		"name": "전주 해바라기",
+		"photo": "jj_sunflower.jpg",
+		"type": "motel",
+		"location": [0, 0],
+		"rating": 3,
+		"rooms": {
+			"single": 6,
+			"double": 16,
+			"tripple": 5,
+			"family": 3,
+			"connecting": 0
+		},
+		"price": {
+			"single": 33000,
+			"double": 83000,
+			"tripple": 114000,
+			"family": 185000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 75,
+		"name": "전주 테라",
+		"photo": "jj_tera.jpg",
+		"type": "motel",
+		"location": [0, 0],
+		"rating": 1,
+		"rooms": {
+			"single": 11,
+			"double": 17,
+			"tripple": 5,
+			"family": 2,
+			"connecting": 0
+		},
+		"price": {
+			"single": 37000,
+			"double": 78000,
+			"tripple": 112000,
+			"family": 181000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 76,
+		"name": "가원당한옥",
+		"photo": "gawon.jpg",
+		"type": "pension",
+		"location": [0, 0],
+		"rating": 2,
+		"rooms": {
+			"single": 16,
+			"double": 19,
+			"tripple": 7,
+			"family": 5,
+			"connecting": 0
+		},
+		"price": {
+			"single": 44000,
+			"double": 87000,
+			"tripple": 120000,
+			"family": 170000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 77,
+		"name": "해시락 풀빌라",
+		"photo": "hash_lock.jpg",
+		"type": "pension",
+		"location": [0, 0],
+		"rating": 4,
+		"rooms": {
+			"single": 16,
+			"double": 10,
+			"tripple": 3,
+			"family": 5,
+			"connecting": 0
+		},
+		"price": {
+			"single": 34000,
+			"double": 77000,
+			"tripple": 132000,
+			"family": 173000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 78,
+		"name": "까메오 모던펜션",
+		"photo": "black_o.jpg",
+		"type": "pension",
+		"location": [0, 0],
+		"rating": 5,
+		"rooms": {
+			"single": 15,
+			"double": 18,
+			"tripple": 8,
+			"family": 1,
+			"connecting": 0
+		},
+		"price": {
+			"single": 32000,
+			"double": 90000,
+			"tripple": 136000,
+			"family": 166000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 79,
+		"name": "안녕모항 풀빌라",
+		"photo": "hello_mohang.jpg",
+		"type": "pension",
+		"location": [0, 0],
+		"rating": 4,
+		"rooms": {
+			"single": 8,
+			"double": 24,
+			"tripple": 3,
+			"family": 1,
+			"connecting": 0
+		},
+		"price": {
+			"single": 39000,
+			"double": 78000,
+			"tripple": 117000,
+			"family": 227000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 80,
+		"name": "그랑메종펜션",
+		"photo": "grang_mejong.jpg",
+		"type": "pension",
+		"location": [0, 0],
+		"rating": 5,
+		"rooms": {
+			"single": 10,
+			"double": 8,
+			"tripple": 5,
+			"family": 5,
+			"connecting": 0
+		},
+		"price": {
+			"single": 60000,
+			"double": 73000,
+			"tripple": 118000,
+			"family": 193000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 81,
+		"name": "스테이리조트",
+		"photo": "stay_resort.jpg",
+		"type": "pension",
+		"location": [0, 0],
+		"rating": 4,
+		"rooms": {
+			"single": 12,
+			"double": 15,
+			"tripple": 5,
+			"family": 3,
+			"connecting": 0
+		},
+		"price": {
+			"single": 56000,
+			"double": 96000,
+			"tripple": 145000,
+			"family": 215000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 82,
+		"name": "케이팝펜션",
+		"photo": "k_pop.jpg",
+		"type": "pension",
+		"location": [0, 0],
+		"rating": 3,
+		"rooms": {
+			"single": 14,
+			"double": 25,
+			"tripple": 5,
+			"family": 5,
+			"connecting": 0
+		},
+		"price": {
+			"single": 44000,
+			"double": 70000,
+			"tripple": 130000,
+			"family": 242000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 83,
+		"name": "바람의정원 펜션",
+		"photo": "garden_of_wind.jpg",
+		"type": "pension",
+		"location": [0, 0],
+		"rating": 5,
+		"rooms": {
+			"single": 10,
+			"double": 10,
+			"tripple": 6,
+			"family": 2,
+			"connecting": 0
+		},
+		"price": {
+			"single": 38000,
+			"double": 83000,
+			"tripple": 118000,
+			"family": 250000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 84,
+		"name": "스파클링펜션",
+		"photo": "sparkling.jpg",
+		"type": "pension",
+		"location": [0, 0],
+		"rating": 3,
+		"rooms": {
+			"single": 12,
+			"double": 24,
+			"tripple": 6,
+			"family": 1,
+			"connecting": 0
+		},
+		"price": {
+			"single": 40000,
+			"double": 96000,
+			"tripple": 119000,
+			"family": 191000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 85,
+		"name": "리조트 펜션",
+		"photo": "resort.jpg",
+		"type": "pension",
+		"location": [0, 0],
+		"rating": 5,
+		"rooms": {
+			"single": 9,
+			"double": 9,
+			"tripple": 3,
+			"family": 2,
+			"connecting": 0
+		},
+		"price": {
+			"single": 32000,
+			"double": 88000,
+			"tripple": 149000,
+			"family": 247000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 86,
+		"name": "마리나스파펜션",
+		"photo": "marinaspa.jpg",
+		"type": "pension",
+		"location": [0, 0],
+		"rating": 4,
+		"rooms": {
+			"single": 13,
+			"double": 16,
+			"tripple": 7,
+			"family": 5,
+			"connecting": 0
+		},
+		"price": {
+			"single": 41000,
+			"double": 92000,
+			"tripple": 121000,
+			"family": 187000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 87,
+		"name": "씨윈드 펜션",
+		"photo": "sea_wind.jpg",
+		"type": "pension",
+		"location": [0, 0],
+		"rating": 1,
+		"rooms": {
+			"single": 14,
+			"double": 22,
+			"tripple": 5,
+			"family": 4,
+			"connecting": 0
+		},
+		"price": {
+			"single": 40000,
+			"double": 79000,
+			"tripple": 139000,
+			"family": 191000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 88,
+		"name": "G펜션",
+		"photo": "G_pension.jpg",
+		"type": "pension",
+		"location": [0, 0],
+		"rating": 5,
+		"rooms": {
+			"single": 10,
+			"double": 24,
+			"tripple": 6,
+			"family": 4,
+			"connecting": 0
+		},
+		"price": {
+			"single": 58000,
+			"double": 86000,
+			"tripple": 150000,
+			"family": 214000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 89,
+		"name": "하이츠 펜션",
+		"photo": "hight.jpg",
+		"type": "pension",
+		"location": [0, 0],
+		"rating": 5,
+		"rooms": {
+			"single": 12,
+			"double": 22,
+			"tripple": 5,
+			"family": 2,
+			"connecting": 0
+		},
+		"price": {
+			"single": 33000,
+			"double": 93000,
+			"tripple": 146000,
+			"family": 170000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 90,
+		"name": "솔레이뷰 스파펜션",
+		"photo": "solay_view.jpg",
+		"type": "pension",
+		"location": [0, 0],
+		"rating": 2,
+		"rooms": {
+			"single": 12,
+			"double": 17,
+			"tripple": 3,
+			"family": 2,
+			"connecting": 0
+		},
+		"price": {
+			"single": 41000,
+			"double": 84000,
+			"tripple": 126000,
+			"family": 202000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 91,
+		"name": "제이제이 리조트",
+		"photo": "jj_resort.jpg",
+		"type": "pension",
+		"location": [0, 0],
+		"rating": 5,
+		"rooms": {
+			"single": 6,
+			"double": 11,
+			"tripple": 3,
+			"family": 3,
+			"connecting": 0
+		},
+		"price": {
+			"single": 37000,
+			"double": 76000,
+			"tripple": 141000,
+			"family": 165000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 92,
+		"name": "레인보우 레드펜션",
+		"photo": "rainbow_red.jpg",
+		"type": "pension",
+		"location": [0, 0],
+		"rating": 1,
+		"rooms": {
+			"single": 8,
+			"double": 11,
+			"tripple": 8,
+			"family": 1,
+			"connecting": 0
+		},
+		"price": {
+			"single": 58000,
+			"double": 82000,
+			"tripple": 132000,
+			"family": 231000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 93,
+		"name": "플로라 펜션",
+		"photo": "flora.jpg",
+		"type": "pension",
+		"location": [0, 0],
+		"rating": 2,
+		"rooms": {
+			"single": 10,
+			"double": 12,
+			"tripple": 7,
+			"family": 5,
+			"connecting": 0
+		},
+		"price": {
+			"single": 39000,
+			"double": 74000,
+			"tripple": 143000,
+			"family": 209000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 94,
+		"name": "전주 힐링펜션",
+		"photo": "jj_healing.jpg",
+		"type": "pension",
+		"location": [0, 0],
+		"rating": 4,
+		"rooms": {
+			"single": 10,
+			"double": 16,
+			"tripple": 8,
+			"family": 1,
+			"connecting": 0
+		},
+		"price": {
+			"single": 38000,
+			"double": 72000,
+			"tripple": 149000,
+			"family": 218000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 95,
+		"name": "동진 캐슬펜션",
+		"photo": "castle.jpg",
+		"type": "pension",
+		"location": [0, 0],
+		"rating": 4,
+		"rooms": {
+			"single": 14,
+			"double": 12,
+			"tripple": 4,
+			"family": 4,
+			"connecting": 0
+		},
+		"price": {
+			"single": 37000,
+			"double": 86000,
+			"tripple": 130000,
+			"family": 200000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 96,
+		"name": "더뷰펜션",
+		"photo": "the_view.jpg",
+		"type": "pension",
+		"location": [0, 0],
+		"rating": 4,
+		"rooms": {
+			"single": 13,
+			"double": 18,
+			"tripple": 6,
+			"family": 1,
+			"connecting": 0
+		},
+		"price": {
+			"single": 44000,
+			"double": 87000,
+			"tripple": 117000,
+			"family": 238000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 97,
+		"name": "보보스펜션",
+		"photo": "bobos.jpg",
+		"type": "pension",
+		"location": [0, 0],
+		"rating": 3,
+		"rooms": {
+			"single": 12,
+			"double": 22,
+			"tripple": 5,
+			"family": 4,
+			"connecting": 0
+		},
+		"price": {
+			"single": 34000,
+			"double": 75000,
+			"tripple": 127000,
+			"family": 188000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 98,
+		"name": "선셋펜션",
+		"photo": "sunset.jpg",
+		"type": "pension",
+		"location": [0, 0],
+		"rating": 3,
+		"rooms": {
+			"single": 12,
+			"double": 25,
+			"tripple": 6,
+			"family": 4,
+			"connecting": 0
+		},
+		"price": {
+			"single": 47000,
+			"double": 87000,
+			"tripple": 126000,
+			"family": 172000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 99,
+		"name": "전주 라벤더펜션",
+		"photo": "jj_lavender.jpg",
+		"type": "pension",
+		"location": [0, 0],
+		"rating": 3,
+		"rooms": {
+			"single": 12,
+			"double": 23,
+			"tripple": 5,
+			"family": 3,
+			"connecting": 0
+		},
+		"price": {
+			"single": 32000,
+			"double": 94000,
+			"tripple": 125000,
+			"family": 218000,
+			"connecting": 0
+		}
+	},
+	{
+		"idx": 100,
+		"name": "카카오펜션",
+		"photo": "kakao.jpg",
+		"type": "pension",
+		"location": [0, 0],
+		"rating": 4,
+		"rooms": {
+			"single": 9,
+			"double": 8,
+			"tripple": 5,
+			"family": 1,
+			"connecting": 0
+		},
+		"price": {
+			"single": 43000,
+			"double": 86000,
+			"tripple": 115000,
+			"family": 205000,
+			"connecting": 0
+		}
+	}
+]

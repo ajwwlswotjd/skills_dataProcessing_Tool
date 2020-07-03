@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+body {
+	width: 100%;
+	height: 100vh;
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+canvas {
+	position: relative;
+	left: 0;
+	top: 0;
+	border:1px solid #000;
+}
+
+.container {
+	width: 90%;
+	height: 90vh;
+	position: relative;
+	overflow: scroll;
+}
+
+#btn {
+	position: fixed;
+	top: 0;
+	left: 0;
+	user-select: none;
+}
+
+#cntArr {
+	position: fixed;
+	top: 0;
+	left: 100px;
+	display: flex;
+}
+
+#cntArr > p {
+	margin: 0 15px;
+}
