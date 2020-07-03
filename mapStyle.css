@@ -41,3 +41,10 @@ canvas {
 #cntArr > p {
 	margin: 0 15px;
 }
+
+#mode_label {
+	position: fixed;
+	top: 0;
+	left: 600px;
+	user-select: none;
+}

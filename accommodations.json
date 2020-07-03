@@ -4,7 +4,7 @@
 		"name": "전주 NO25", 
 		"photo": "no_25.jpg", 
 		"type": "hotel", 
-		"location": [1, 4], 
+		"location": [3, 1], 
 		"rating": 4, 
 		"rooms": { 
 			"single": 10,
@@ -26,7 +26,7 @@
 		"name": "전주 MAX호텔",
 		"photo": "max.jpg",
 		"type": "hotel",
-		"location": [2, 0],
+		"location": [11, 1],
 		"rating": 5,
 		"rooms": {
 			"single": 20,
@@ -48,7 +48,7 @@
 		"name": "라마다 전주",
 		"photo": "ramada_hotel.jpg",
 		"type": "hotel",
-		"location": [2, 0],
+		"location": [77, 1],
 		"rating": 5,
 		"rooms": {
 			"single": 15,
@@ -70,7 +70,7 @@
 		"name": "라한호텔 전주",
 		"photo": "rahan_hotel.jpg",
 		"type": "hotel",
-		"location": [2, 0],
+		"location": [102, 1],
 		"rating": 3,
 		"rooms": {
 			"single": 7,
@@ -92,7 +92,7 @@
 		"name": "전주 카마호텔",
 		"photo": "kama.jpg",
 		"type": "hotel",
-		"location": [2, 0],
+		"location": [3, 3],
 		"rating": 4,
 		"rooms": {
 			"single": 6,
@@ -114,7 +114,7 @@
 		"name": "전주 더씨티 호텔",
 		"photo": "thecity.jpg",
 		"type": "hotel",
-		"location": [2, 0],
+		"location": [111, 3],
 		"rating": 4,
 		"rooms": {
 			"single": 10,
@@ -136,7 +136,7 @@
 		"name": "전주 비지트호텔",
 		"photo": "jj_visit.jpg",
 		"type": "hotel",
-		"location": [2, 0],
+		"location": [64, 4],
 		"rating": 5,
 		"rooms": {
 			"single": 20,
@@ -158,7 +158,7 @@
 		"name": "전주 이화호텔",
 		"photo": "jj_yihua.jpg",
 		"type": "hotel",
-		"location": [2, 0],
+		"location": [50, 5],
 		"rating": 2,
 		"rooms": {
 			"single": 5,
@@ -180,7 +180,7 @@
 		"name": "전주 황실관광호텔",
 		"photo": "jj_hwang.jpg",
 		"type": "hotel",
-		"location": [2, 0],
+		"location": [15, 6],
 		"rating": 2,
 		"rooms": {
 			"single": 2,
@@ -202,7 +202,7 @@
 		"name": "전주 그랜드힐스턴 호텔",
 		"photo": "jj_grand.jpg",
 		"type": "hotel",
-		"location": [2, 0],
+		"location": [31, 7],
 		"rating": 3,
 		"rooms": {
 			"single": 5,
@@ -224,7 +224,7 @@
 		"name": "엔브릿지 호텔",
 		"photo": "n_bridge.jpg",
 		"type": "hotel",
-		"location": [2, 0],
+		"location": [103, 8],
 		"rating": 4,
 		"rooms": {
 			"single": 16,
@@ -246,7 +246,7 @@
 		"name": "전주 한옥호텔 왕의지밀",
 		"photo": "king.jpg",
 		"type": "hotel",
-		"location": [2, 0],
+		"location": [15, 9],
 		"rating": 2,
 		"rooms": {
 			"single": 5,
@@ -268,7 +268,7 @@
 		"name": "전주 마리호텔",
 		"photo": "jj_mari.jpg",
 		"type": "hotel",
-		"location": [2, 0],
+		"location": [40, 10],
 		"rating": 5,
 		"rooms": {
 			"single": 20,
@@ -290,7 +290,7 @@
 		"name": "전주한옥호텔 태조궁",
 		"photo": "taejo.jpg",
 		"type": "hotel",
-		"location": [2, 0],
+		"location": [93, 10],
 		"rating": 4,
 		"rooms": {
 			"single": 7,
@@ -312,7 +312,7 @@
 		"name": "솔 호텔",
 		"photo": "sol.jpg",
 		"type": "hotel",
-		"location": [2, 0],
+		"location": [79, 11],
 		"rating": 1,
 		"rooms": {
 			"single": 4,
@@ -334,7 +334,7 @@
 		"name": "베니키아 전주한성호텔",
 		"photo": "venikia.jpg",
 		"type": "hotel",
-		"location": [2, 0],
+		"location": [22, 12],
 		"rating": 5,
 		"rooms": {
 			"single": 15,
@@ -356,7 +356,7 @@
 		"name": "전주 재즈어라운드호텔",
 		"photo": "jazz.jpg",
 		"type": "hotel",
-		"location": [2, 0],
+		"location": [80, 12],
 		"rating": 4,
 		"rooms": {
 			"single": 6,
@@ -378,7 +378,7 @@
 		"name": "호텔 오페라21",
 		"photo": "opera.jpg",
 		"type": "hotel",
-		"location": [2, 0],
+		"location": [119, 10],
 		"rating": 5,
 		"rooms": {
 			"single": 18,
@@ -400,7 +400,7 @@
 		"name": "전주 영화호텔",
 		"photo": "movie.jpg",
 		"type": "hotel",
-		"location": [2, 0],
+		"location": [102, 13],
 		"rating": 1,
 		"rooms": {
 			"single": 2,
@@ -422,7 +422,7 @@
 		"name": "에코스테이 호텔",
 		"photo": "echo_stay.jpg",
 		"type": "hotel",
-		"location": [2, 0],
+		"location": [47, 16],
 		"rating": 3,
 		"rooms": {
 			"single": 4,
@@ -444,7 +444,7 @@
 		"name": "한옥호텔 궁",
 		"photo": "hanok_gung.jpg",
 		"type": "hotel",
-		"location": [2, 0],
+		"location": [103, 18],
 		"rating": 5,
 		"rooms": {
 			"single": 3,
@@ -466,7 +466,7 @@
 		"name": "전주 블루원호텔",
 		"photo": "hanok_gung.jpg",
 		"type": "hotel",
-		"location": [2, 0],
+		"location": [91, 19],
 		"rating": 2,
 		"rooms": {
 			"single": 4,
@@ -488,7 +488,7 @@
 		"name": "나비잠한옥호텔",
 		"photo": "butterfly_sleep.jpg",
 		"type": "hotel",
-		"location": [0, 0],
+		"location": [13, 20],
 		"rating": 5,
 		"rooms": {
 			"single": 15,
@@ -510,7 +510,7 @@
 		"name": "전주 화이트관광호텔",
 		"photo": "jj_white.jpg",
 		"type": "hotel",
-		"location": [0, 0],
+		"location": [31, 20],
 		"rating": 4,
 		"rooms": {
 			"single": 40,
@@ -532,7 +532,7 @@
 		"name": "전주 JS 호텔",
 		"photo": "jj_js.jpg",
 		"type": "hotel",
-		"location": [0, 0],
+		"location": [76, 20],
 		"rating": 2,
 		"rooms": {
 			"single": 17,
@@ -554,7 +554,7 @@
 		"name": "전주 노이호텔",
 		"photo": "jj_noy.jpg",
 		"type": "hotel",
-		"location": [0, 0],
+		"location": [14, 27],
 		"rating": 1,
 		"rooms": {
 			"single": 5,
@@ -576,7 +576,7 @@
 		"name": "전주 호텔 늘",
 		"photo": "neul.jpg",
 		"type": "hotel",
-		"location": [0, 0],
+		"location": [90, 26],
 		"rating": 5,
 		"rooms": {
 			"single": 8,
@@ -598,7 +598,7 @@
 		"name": "늘품호텔",
 		"photo": "nolpum.jpg",
 		"type": "hotel",
-		"location": [0, 0],
+		"location": [67, 27],
 		"rating": 4,
 		"rooms": {
 			"single": 6,
@@ -620,7 +620,7 @@
 		"name": "칼튼힐호텔",
 		"photo": "kalten_hill.jpg",
 		"type": "hotel",
-		"location": [0, 0],
+		"location": [2, 28],
 		"rating": 5,
 		"rooms": {
 			"single": 50,
@@ -642,7 +642,7 @@
 		"name": "전주 투헤븐 호텔",
 		"photo": "jj_toheaven.jpg",
 		"type": "hotel",
-		"location": [0, 0],
+		"location": [42, 28],
 		"rating": 3,
 		"rooms": {
 			"single": 15,
@@ -664,7 +664,7 @@
 		"name": "더클래식호텔",
 		"photo": "the_classic.jpg",
 		"type": "hotel",
-		"location": [0, 0],
+		"location": [34, 31],
 		"rating": 5,
 		"rooms": {
 			"single": 60,
@@ -686,7 +686,7 @@
 		"name": "홀리데이 호텔",
 		"photo": "holiday.jpg",
 		"type": "hotel",
-		"location": [0, 0],
+		"location": [86, 31],
 		"rating": 3,
 		"rooms": {
 			"single": 100,
@@ -708,7 +708,7 @@
 		"name": "전주 와인호텔",
 		"photo": "jj_wine.jpg",
 		"type": "hotel",
-		"location": [0, 0],
+		"location": [117, 31],
 		"rating": 5,
 		"rooms": {
 			"single": 10,
@@ -730,7 +730,7 @@
 		"name": "발렌타인 호텔",
 		"photo": "ballantine.jpg",
 		"type": "hotel",
-		"location": [0, 0],
+		"location": [41, 32],
 		"rating": 3,
 		"rooms": {
 			"single": 6,
@@ -752,7 +752,7 @@
 		"name": "호텔B",
 		"photo": "hotel_b.jpg",
 		"type": "hotel",
-		"location": [0, 0],
+		"location": [78, 35],
 		"rating": 5,
 		"rooms": {
 			"single": 30,
@@ -774,7 +774,7 @@
 		"name": "호텔 53",
 		"photo": "hote_53.jpg",
 		"type": "hotel",
-		"location": [0, 0],
+		"location": [124, 35],
 		"rating": 3,
 		"rooms": {
 			"single": 10,
@@ -796,7 +796,7 @@
 		"name": "두바이 호텔",
 		"photo": "dubai.jpg",
 		"type": "hotel",
-		"location": [0, 0],
+		"location": [19, 36],
 		"rating": 5,
 		"rooms": {
 			"single": 100,
@@ -818,7 +818,7 @@
 		"name": "호텔 프랑스",
 		"photo": "france.jpg",
 		"type": "hotel",
-		"location": [0, 0],
+		"location": [104, 37],
 		"rating": 3,
 		"rooms": {
 			"single": 17,
@@ -840,7 +840,7 @@
 		"name": "벤틀리호텔",
 		"photo": "bently.jpg",
 		"type": "hotel",
-		"location": [0, 0],
+		"location": [31, 38],
 		"rating": 5,
 		"rooms": {
 			"single": 70,
@@ -862,7 +862,7 @@
 		"name": "메이킹 호텔",
 		"photo": "making.jpg",
 		"type": "hotel",
-		"location": [0, 0],
+		"location": [124, 39],
 		"rating": 4,
 		"rooms": {
 			"single": 60,
@@ -884,7 +884,7 @@
 		"name": "벤처 비즈니스 호텔",
 		"photo": "benture.jpg",
 		"type": "hotel",
-		"location": [0, 0],
+		"location": [47, 40],
 		"rating": 1,
 		"rooms": {
 			"single": 5,
@@ -906,7 +906,7 @@
 		"name": "광주 노블레스호텔",
 		"photo": "nobless.jpg",
 		"type": "hotel",
-		"location": [0, 0],
+		"location": [10, 41],
 		"rating": 5,
 		"rooms": {
 			"single": 19,
@@ -928,7 +928,7 @@
 		"name": "호텔 더메이",
 		"photo": "themay.jpg",
 		"type": "hotel",
-		"location": [0, 0],
+		"location": [23, 41],
 		"rating": 1,
 		"rooms": {
 			"single": 5,
@@ -950,7 +950,7 @@
 		"name": "에프엔티 호텔",
 		"photo": "fnt.jpg",
 		"type": "hotel",
-		"location": [0, 0],
+		"location": [97, 42],
 		"rating": 1,
 		"rooms": {
 			"single": 20,
@@ -972,7 +972,7 @@
 		"name": "W 라운지 호텔",
 		"photo": "w_lounge.jpg",
 		"type": "hotel",
-		"location": [0, 0],
+		"location": [57, 43],
 		"rating": 3,
 		"rooms": {
 			"single": 5,
@@ -994,7 +994,7 @@
 		"name": "피렌체 관광호텔",
 		"photo": "piren.jpg",
 		"type": "hotel",
-		"location": [0, 0],
+		"location": [74, 43],
 		"rating": 1,
 		"rooms": {
 			"single": 6,
@@ -1016,7 +1016,7 @@
 		"name": "어반라이프호텔",
 		"photo": "urban_life.jpg",
 		"type": "hotel",
-		"location": [0, 0],
+		"location": [99, 43],
 		"rating": 3,
 		"rooms": {
 			"single": 15,
@@ -1038,7 +1038,7 @@
 		"name": "ACC 디자인 호텔",
 		"photo": "acc_design.jpg",
 		"type": "hotel",
-		"location": [0, 0],
+		"location": [10, 44],
 		"rating": 4,
 		"rooms": {
 			"single": 9,
@@ -1060,7 +1060,7 @@
 		"name": "비즈니스호텔 듀",
 		"photo": "business_due.jpg",
 		"type": "hotel",
-		"location": [0, 0],
+		"location": [29, 44],
 		"rating": 4,
 		"rooms": {
 			"single": 19,
@@ -1082,7 +1082,7 @@
 		"name": "더존호텔",
 		"photo": "the_zone.jpg",
 		"type": "hotel",
-		"location": [0, 0],
+		"location": [91, 46],
 		"rating": 2,
 		"rooms": {
 			"single": 11,
@@ -1104,7 +1104,7 @@
 		"name": "전주 스마일",
 		"photo": "jj_smile.jpg",
 		"type": "motel",
-		"location": [0, 0],
+		"location": [54, 47],
 		"rating": 1,
 		"rooms": {
 			"single": 13,
@@ -1126,7 +1126,7 @@
 		"name": "전주 쏘울",
 		"photo": "jj_soul.jpg",
 		"type": "motel",
-		"location": [0, 0],
+		"location": [59, 47],
 		"rating": 2,
 		"rooms": {
 			"single": 15,
@@ -1148,7 +1148,7 @@
 		"name": "전주 CUBE505",
 		"photo": "jj_cube.jpg",
 		"type": "motel",
-		"location": [0, 0],
+		"location": [78, 47],
 		"rating": 1,
 		"rooms": {
 			"single": 13,
@@ -1170,7 +1170,7 @@
 		"name": "덕진 허브",
 		"photo": "hub.jpg",
 		"type": "motel",
-		"location": [0, 0],
+		"location": [119, 50],
 		"rating": 1,
 		"rooms": {
 			"single": 4,
@@ -1192,7 +1192,7 @@
 		"name": "전주 MOMENT708",
 		"photo": "jj_moment.jpg",
 		"type": "motel",
-		"location": [0, 0],
+		"location": [85, 51],
 		"rating": 1,
 		"rooms": {
 			"single": 11,
@@ -1214,7 +1214,7 @@
 		"name": "전주 비스트",
 		"photo": "jj_beast.jpg",
 		"type": "motel",
-		"location": [0, 0],
+		"location": [26, 52],
 		"rating": 3,
 		"rooms": {
 			"single": 7,
@@ -1236,7 +1236,7 @@
 		"name": "전주 칸",
 		"photo": "jj_khan.jpg",
 		"type": "motel",
-		"location": [0, 0],
+		"location": [36, 52],
 		"rating": 4,
 		"rooms": {
 			"single": 10,
@@ -1258,7 +1258,7 @@
 		"name": "전주 하루",
 		"photo": "jj_haru.jpg",
 		"type": "motel",
-		"location": [0, 0],
+		"location": [111, 52],
 		"rating": 1,
 		"rooms": {
 			"single": 7,
@@ -1280,7 +1280,7 @@
 		"name": "전주 프라하",
 		"photo": "jj_praha.jpg",
 		"type": "motel",
-		"location": [0, 0],
+		"location": [107, 54],
 		"rating": 5,
 		"rooms": {
 			"single": 5,
@@ -1302,7 +1302,7 @@
 		"name": "전주 후",
 		"photo": "jj_who.jpg",
 		"type": "motel",
-		"location": [0, 0],
+		"location": [11, 57],
 		"rating": 1,
 		"rooms": {
 			"single": 7,
@@ -1324,7 +1324,7 @@
 		"name": "전주 XO",
 		"photo": "jj_xo.jpg",
 		"type": "motel",
-		"location": [0, 0],
+		"location": [69, 58],
 		"rating": 2,
 		"rooms": {
 			"single": 13,
@@ -1346,7 +1346,7 @@
 		"name": "전주 소풍",
 		"photo": "jj_picnic.jpg",
 		"type": "motel",
-		"location": [0, 0],
+		"location": [118, 59],
 		"rating": 3,
 		"rooms": {
 			"single": 4,
@@ -1368,7 +1368,7 @@
 		"name": "전주 허니",
 		"photo": "jj_honey.jpg",
 		"type": "motel",
-		"location": [0, 0],
+		"location": [60, 60],
 		"rating": 5,
 		"rooms": {
 			"single": 14,
@@ -1390,7 +1390,7 @@
 		"name": "전주 박스",
 		"photo": "jj_box.jpg",
 		"type": "motel",
-		"location": [0, 0],
+		"location": [42, 61],
 		"rating": 4,
 		"rooms": {
 			"single": 15,
@@ -1412,7 +1412,7 @@
 		"name": "전주 위너",
 		"photo": "jj_winner.jpg",
 		"type": "motel",
-		"location": [0, 0],
+		"location": [55, 61],
 		"rating": 3,
 		"rooms": {
 			"single": 15,
@@ -1434,7 +1434,7 @@
 		"name": "전주 MIX",
 		"photo": "jj_mix.jpg",
 		"type": "motel",
-		"location": [0, 0],
+		"location": [77, 61],
 		"rating": 1,
 		"rooms": {
 			"single": 5,
@@ -1456,7 +1456,7 @@
 		"name": "전주 노이 NEUE",
 		"photo": "jj_neue.jpg",
 		"type": "motel",
-		"location": [0, 0],
+		"location": [94, 61],
 		"rating": 4,
 		"rooms": {
 			"single": 14,
@@ -1478,7 +1478,7 @@
 		"name": "전주 워너비",
 		"photo": "jj_wannabe.jpg",
 		"type": "motel",
-		"location": [0, 0],
+		"location": [100, 61],
 		"rating": 3,
 		"rooms": {
 			"single": 8,
@@ -1500,7 +1500,7 @@
 		"name": "전주 스카이쇼원",
 		"photo": "jj_skyShowOne.jpg",
 		"type": "motel",
-		"location": [0, 0],
+		"location": [16, 62],
 		"rating": 3,
 		"rooms": {
 			"single": 5,
@@ -1522,7 +1522,7 @@
 		"name": "전주 바라한",
 		"photo": "jj_barahan.jpg",
 		"type": "motel",
-		"location": [0, 0],
+		"location": [105, 63],
 		"rating": 3,
 		"rooms": {
 			"single": 12,
@@ -1544,7 +1544,7 @@
 		"name": "전주 황금",
 		"photo": "jj_gold.jpg",
 		"type": "motel",
-		"location": [0, 0],
+		"location": [116, 66],
 		"rating": 3,
 		"rooms": {
 			"single": 6,
@@ -1566,7 +1566,7 @@
 		"name": "전주 윈져",
 		"photo": "jj_windger.jpg",
 		"type": "motel",
-		"location": [0, 0],
+		"location": [80, 69],
 		"rating": 1,
 		"rooms": {
 			"single": 14,
@@ -1588,7 +1588,7 @@
 		"name": "전주 린하우스",
 		"photo": "jj_linhouse.jpg",
 		"type": "motel",
-		"location": [0, 0],
+		"location": [97, 70],
 		"rating": 1,
 		"rooms": {
 			"single": 8,
@@ -1610,7 +1610,7 @@
 		"name": "전주 해바라기",
 		"photo": "jj_sunflower.jpg",
 		"type": "motel",
-		"location": [0, 0],
+		"location": [47, 71],
 		"rating": 3,
 		"rooms": {
 			"single": 6,
@@ -1632,7 +1632,7 @@
 		"name": "전주 테라",
 		"photo": "jj_tera.jpg",
 		"type": "motel",
-		"location": [0, 0],
+		"location": [1, 72],
 		"rating": 1,
 		"rooms": {
 			"single": 11,
@@ -1654,7 +1654,7 @@
 		"name": "가원당한옥",
 		"photo": "gawon.jpg",
 		"type": "pension",
-		"location": [0, 0],
+		"location": [103, 72],
 		"rating": 2,
 		"rooms": {
 			"single": 16,
@@ -1676,7 +1676,7 @@
 		"name": "해시락 풀빌라",
 		"photo": "hash_lock.jpg",
 		"type": "pension",
-		"location": [0, 0],
+		"location": [60, 74],
 		"rating": 4,
 		"rooms": {
 			"single": 16,
@@ -1698,7 +1698,7 @@
 		"name": "까메오 모던펜션",
 		"photo": "black_o.jpg",
 		"type": "pension",
-		"location": [0, 0],
+		"location": [100, 75],
 		"rating": 5,
 		"rooms": {
 			"single": 15,
@@ -1720,7 +1720,7 @@
 		"name": "안녕모항 풀빌라",
 		"photo": "hello_mohang.jpg",
 		"type": "pension",
-		"location": [0, 0],
+		"location": [8, 76],
 		"rating": 4,
 		"rooms": {
 			"single": 8,
@@ -1742,7 +1742,7 @@
 		"name": "그랑메종펜션",
 		"photo": "grang_mejong.jpg",
 		"type": "pension",
-		"location": [0, 0],
+		"location": [115, 77],
 		"rating": 5,
 		"rooms": {
 			"single": 10,
@@ -1764,7 +1764,7 @@
 		"name": "스테이리조트",
 		"photo": "stay_resort.jpg",
 		"type": "pension",
-		"location": [0, 0],
+		"location": [120, 77],
 		"rating": 4,
 		"rooms": {
 			"single": 12,
@@ -1786,7 +1786,7 @@
 		"name": "케이팝펜션",
 		"photo": "k_pop.jpg",
 		"type": "pension",
-		"location": [0, 0],
+		"location": [97, 78],
 		"rating": 3,
 		"rooms": {
 			"single": 14,
@@ -1808,7 +1808,7 @@
 		"name": "바람의정원 펜션",
 		"photo": "garden_of_wind.jpg",
 		"type": "pension",
-		"location": [0, 0],
+		"location": [25, 80],
 		"rating": 5,
 		"rooms": {
 			"single": 10,
@@ -1830,7 +1830,7 @@
 		"name": "스파클링펜션",
 		"photo": "sparkling.jpg",
 		"type": "pension",
-		"location": [0, 0],
+		"location": [83, 80],
 		"rating": 3,
 		"rooms": {
 			"single": 12,
@@ -1852,7 +1852,7 @@
 		"name": "리조트 펜션",
 		"photo": "resort.jpg",
 		"type": "pension",
-		"location": [0, 0],
+		"location": [105, 80],
 		"rating": 5,
 		"rooms": {
 			"single": 9,
@@ -1874,7 +1874,7 @@
 		"name": "마리나스파펜션",
 		"photo": "marinaspa.jpg",
 		"type": "pension",
-		"location": [0, 0],
+		"location": [40, 81],
 		"rating": 4,
 		"rooms": {
 			"single": 13,
@@ -1896,7 +1896,7 @@
 		"name": "씨윈드 펜션",
 		"photo": "sea_wind.jpg",
 		"type": "pension",
-		"location": [0, 0],
+		"location": [102, 82],
 		"rating": 1,
 		"rooms": {
 			"single": 14,
@@ -1918,7 +1918,7 @@
 		"name": "G펜션",
 		"photo": "G_pension.jpg",
 		"type": "pension",
-		"location": [0, 0],
+		"location": [123, 83],
 		"rating": 5,
 		"rooms": {
 			"single": 10,
@@ -1940,7 +1940,7 @@
 		"name": "하이츠 펜션",
 		"photo": "hight.jpg",
 		"type": "pension",
-		"location": [0, 0],
+		"location": [5, 84],
 		"rating": 5,
 		"rooms": {
 			"single": 12,
@@ -1962,7 +1962,7 @@
 		"name": "솔레이뷰 스파펜션",
 		"photo": "solay_view.jpg",
 		"type": "pension",
-		"location": [0, 0],
+		"location": [56, 85],
 		"rating": 2,
 		"rooms": {
 			"single": 12,
@@ -1984,7 +1984,7 @@
 		"name": "제이제이 리조트",
 		"photo": "jj_resort.jpg",
 		"type": "pension",
-		"location": [0, 0],
+		"location": [80, 85],
 		"rating": 5,
 		"rooms": {
 			"single": 6,
@@ -2006,7 +2006,7 @@
 		"name": "레인보우 레드펜션",
 		"photo": "rainbow_red.jpg",
 		"type": "pension",
-		"location": [0, 0],
+		"location": [72, 86],
 		"rating": 1,
 		"rooms": {
 			"single": 8,
@@ -2028,7 +2028,7 @@
 		"name": "플로라 펜션",
 		"photo": "flora.jpg",
 		"type": "pension",
-		"location": [0, 0],
+		"location": [28, 88],
 		"rating": 2,
 		"rooms": {
 			"single": 10,
@@ -2050,7 +2050,7 @@
 		"name": "전주 힐링펜션",
 		"photo": "jj_healing.jpg",
 		"type": "pension",
-		"location": [0, 0],
+		"location": [68, 90],
 		"rating": 4,
 		"rooms": {
 			"single": 10,
@@ -2072,7 +2072,7 @@
 		"name": "동진 캐슬펜션",
 		"photo": "castle.jpg",
 		"type": "pension",
-		"location": [0, 0],
+		"location": [122, 91],
 		"rating": 4,
 		"rooms": {
 			"single": 14,
@@ -2094,7 +2094,7 @@
 		"name": "더뷰펜션",
 		"photo": "the_view.jpg",
 		"type": "pension",
-		"location": [0, 0],
+		"location": [14, 94],
 		"rating": 4,
 		"rooms": {
 			"single": 13,
@@ -2116,7 +2116,7 @@
 		"name": "보보스펜션",
 		"photo": "bobos.jpg",
 		"type": "pension",
-		"location": [0, 0],
+		"location": [34, 97],
 		"rating": 3,
 		"rooms": {
 			"single": 12,
@@ -2138,7 +2138,7 @@
 		"name": "선셋펜션",
 		"photo": "sunset.jpg",
 		"type": "pension",
-		"location": [0, 0],
+		"location": [52, 98],
 		"rating": 3,
 		"rooms": {
 			"single": 12,
@@ -2160,7 +2160,7 @@
 		"name": "전주 라벤더펜션",
 		"photo": "jj_lavender.jpg",
 		"type": "pension",
-		"location": [0, 0],
+		"location": [7, 99],
 		"rating": 3,
 		"rooms": {
 			"single": 12,
@@ -2182,7 +2182,7 @@
 		"name": "카카오펜션",
 		"photo": "kakao.jpg",
 		"type": "pension",
-		"location": [0, 0],
+		"location": [87, 99],
 		"rating": 4,
 		"rooms": {
 			"single": 9,
